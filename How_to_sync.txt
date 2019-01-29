@@ -1,0 +1,5 @@
+Step1: Add the origin repo to remote - git remote add upstream "URL"
+Step2: Sync/update your forked repo to the origin repo - git fetch upstream
+Step3: Merge the latest version of the original master branch to our forked repo's master branch - git merge upstream/master
+Step4: Push all the changes to our forked repo. - git push origin master
+
