@@ -1,0 +1,20 @@
+** Installing git and GitHub Desktop ** 
+Git is a free version control software used for keeping a track of your projects! 
+You may be wondering how this runs on your PC right?
+All of have to do is install git on your PC and you are all set to go! 
+
+--> How to install git?
+1. Go to https://git-scm.com/downloads
+2. Download the latest version of Git available! 
+3. You're all set.
+
+Now, you can access git through the command line or many GUIs (one of the most famous being GitHub Desktop).
+These GUI Clients are third party tools that help you make the process of contributing faster. 
+
+---> How to install GitHub Desktop?
+1. Go to https://desktop.github.com/
+2. Choose the OS of your choice. 
+3. Run the setup!
+4. You're all set.
+
+GUI clients for different OS are available on https://git-scm.com/downloads/guis/
