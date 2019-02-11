@@ -2,7 +2,7 @@
 This repository aims at providing basic knowledge to the beginners about what Git is and getting them to start contributing to open source projects.
 Currently focusing on giving the users a basic workflow and an idea on how to contribute to a repository and sync their fork with the main repository!
 
-# Gain confidence by making your first contribution right here! 
+## Gain confidence by making your first contribution right here! 
 A special contributions file has been created that will help you to make your first contribution.
 You can add to this file by following a few simple steps: 
  1. Fork the repository. 
